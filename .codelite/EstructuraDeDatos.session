@@ -4,9 +4,9 @@
   <wxString Value="A:\OneDrive\Escritorio\EstructuraDeDatos\EstructuraDeDatos\EstructuraDeDatos.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="A:\OneDrive\Escritorio\EstructuraDeDatos\EstructuraDeDatos\EstructuraDeDatos\Ejemplo08.cpp" Name="FileName"/>
+      <wxString Value="A:\OneDrive\Escritorio\EstructuraDeDatos\EstructuraDeDatos\EstructuraDeDatos\Ejemplo12.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
+      <int Value="44" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>

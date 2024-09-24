@@ -1,33 +1,25 @@
 [{
-  "file": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo02.cpp",
+  "file": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\EjemploPasoPorArgumentos.cpp",
   "directory": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos",
-  "command": "clang++ -c A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo02.cpp -o A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo02.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "command": "clang++ -c A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\EjemploPasoPorArgumentos.cpp -o A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\EjemploPasoPorArgumentos.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo05.cpp",
+  "file": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo09.cpp",
   "directory": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos",
-  "command": "clang++ -c A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo05.cpp -o A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo05.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "command": "clang++ -c A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo09.cpp -o A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo09.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo04.cpp",
+  "file": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo10.cpp",
   "directory": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos",
-  "command": "clang++ -c A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo04.cpp -o A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo04.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "command": "clang++ -c A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo10.cpp -o A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo10.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo03.cpp",
+  "file": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo12.cpp",
   "directory": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos",
-  "command": "clang++ -c A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo03.cpp -o A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo03.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "command": "clang++ -c A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo12.cpp -o A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo12.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo06.cpp",
+  "file": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\EjemploPasoPorReferencia.cpp",
   "directory": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos",
-  "command": "clang++ -c A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo06.cpp -o A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo06.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "command": "clang++ -c A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\EjemploPasoPorReferencia.cpp -o A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\EjemploPasoPorReferencia.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
-  "file": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo08.cpp",
+  "file": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo11.cpp",
   "directory": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos",
-  "command": "clang++ -c A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo08.cpp -o A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo08.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo01.cpp",
-  "directory": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos",
-  "command": "clang++ -c A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo01.cpp -o A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo01.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
- }, {
-  "file": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo07.cpp",
-  "directory": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos",
-  "command": "clang++ -c A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo07.cpp -o A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo07.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+  "command": "clang++ -c A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo11.cpp -o A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\Ejemplo11.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }]
