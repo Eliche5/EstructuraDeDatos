@@ -1,12 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="A:\OneDrive\Escritorio\EstructuraDeDatos\EstructuraDeDatos\EstructuraDeDatos.workspace">
-  <int Value="0" Name="m_selectedTab"/>
+  <int Value="4" Name="m_selectedTab"/>
   <wxString Value="A:\OneDrive\Escritorio\EstructuraDeDatos\EstructuraDeDatos\EstructuraDeDatos.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="A:\OneDrive\Escritorio\EstructuraDeDatos\EstructuraDeDatos\EstructuraDeDatos\Ejemplo12.cpp" Name="FileName"/>
+      <wxString Value="A:\OneDrive\Escritorio\EstructuraDeDatos\EstructuraDeDatos\Cola\main.cpp" Name="FileName"/>
+      <int Value="1" Name="FirstVisibleLine"/>
+      <int Value="19" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="A:\OneDrive\Escritorio\EstructuraDeDatos\EstructuraDeDatos\Cola\Cola.cpp" Name="FileName"/>
+      <int Value="18" Name="FirstVisibleLine"/>
+      <int Value="48" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="A:\OneDrive\Escritorio\EstructuraDeDatos\EstructuraDeDatos\Cola\Cola.hpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="44" Name="CurrentLine"/>
+      <int Value="15" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="A:\OneDrive\Escritorio\EstructuraDeDatos\EstructuraDeDatos\Cola\NodoCola.cpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="9" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="A:\OneDrive\Escritorio\EstructuraDeDatos\EstructuraDeDatos\Cola\NodoCola.hpp" Name="FileName"/>
+      <int Value="0" Name="FirstVisibleLine"/>
+      <int Value="12" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>

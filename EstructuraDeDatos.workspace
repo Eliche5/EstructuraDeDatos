@@ -1,16 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="EstructuraDeDatos" Database="" Version="10000">
   <Project Name="EstructuraDeDatos" Path="EstructuraDeDatos/EstructuraDeDatos.project" Active="Yes"/>
+  <Project Name="Pila" Path="EstructuraDeDatosSesion3/EstructuraDeDatosSesion3.project"/>
+  <Project Name="Cola" Path="Cola/Cola.project"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="EstructuraDeDatos" ConfigName="Debug"/>
       <Project Name="EstructuraDeDatos" ConfigName="Debug"/>
+      <Project Name="Pila" ConfigName="Debug"/>
+      <Project Name="Cola" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="EstructuraDeDatos" ConfigName="Release"/>
       <Project Name="EstructuraDeDatos" ConfigName="Release"/>
+      <Project Name="Pila" ConfigName="Release"/>
+      <Project Name="Cola" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
