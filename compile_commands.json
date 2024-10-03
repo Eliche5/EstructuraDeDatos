@@ -39,6 +39,18 @@
   "directory": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatosSesion3",
   "command": "clang++ -c A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatosSesion3\\main.cpp -o A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatosSesion3\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
  }, {
+  "file": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\persona\\main.cpp",
+  "directory": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\persona",
+  "command": "clang++ -c A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\persona\\main.cpp -o A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\persona\\main.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\persona\\Persona.hpp",
+  "directory": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\persona",
+  "command": "clang++ -c A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\persona\\Persona.hpp -o A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\persona\\Persona.hpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
+  "file": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\persona\\Persona.cpp",
+  "directory": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\persona",
+  "command": "clang++ -c A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\persona\\Persona.cpp -o A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\persona\\Persona.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
+ }, {
   "file": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\EjemploPasoPorArgumentos.cpp",
   "directory": "A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos",
   "command": "clang++ -c A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\EjemploPasoPorArgumentos.cpp -o A:\\OneDrive\\Escritorio\\EstructuraDeDatos\\EstructuraDeDatos\\EstructuraDeDatos\\EjemploPasoPorArgumentos.cpp.o  -I. -I.  -gdwarf-2  -O0  -Wall"
